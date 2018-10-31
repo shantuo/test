@@ -1,6 +1,6 @@
 package main
 
 func main() {
-	s := "Hello, World"
+	s := "Hello, World!"
 	fmt.Println(s)
 }
